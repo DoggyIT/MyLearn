@@ -39,6 +39,11 @@ main {
     background-color: white;
     border: 1.2px solid #7ae7ff;
 }
+#nav li:active {
+    color: #bdf3ff;
+    background-color: rgb(246, 253, 255);
+    border: 1.2px solid #7ae7ff;
+}
 #logo {
     float: left;
     text-align: left;
